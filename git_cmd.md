@@ -18,7 +18,7 @@
 	添加所有文件到暂存区
 5. git commit -m [msg]
 	提交暂存区中的文件至本地
-6. git push
+6. git push [arigin] main
 	推送到远程仓库
+7. git pull [origin] main
 	
-
