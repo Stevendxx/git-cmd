@@ -21,4 +21,4 @@
 6. git push [arigin] main
 	推送到远程仓库
 7. git pull [origin] main
-	
+	从远程仓库拉取
