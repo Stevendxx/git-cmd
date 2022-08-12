@@ -21,4 +21,4 @@
 6. git push [origin] main
 	推送到远程仓库
 7. git pull [origin] main
-	从远程仓库拉取
+	推送前必须先从远程仓库拉取一次
